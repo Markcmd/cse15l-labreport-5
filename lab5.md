@@ -2,12 +2,20 @@
 ## Lab Report 5
 ### Step 1
 
-![screenshort1](login_ieng6.png)
-
-Find bug we haven't talked about. 
-
 + The original post from a student with a screenshot showing a symptom and a description of a guess at the bug/some sense of what the failure-inducing input is. (Don’t actually make the post! Just write the content that would go in such a post)
+  
+  Hello, I am working on week6 "student submission", I am struggling with two problems below:
 
+  + I couldn't figure out that why my bash code doesn't give me a expected outputs.And even if I run the correct student's submission it still ouputs the "The file can not "
+  The correct one I used is (https://github.com/ucsd-cse15l-f22/list-methods-corrected).
+
+    ![ss1](code1.png)
+    ![ss1](output1.png)
+
+  + And I try to add a .txt file in the LIST-EXAMPLES-GRADER, which records the student's submission that matching with students. it should recorde every students submission out put in order of I tested. And I also want to know how many students I tested on, my expected formation is like below 
+    number of students  +  url  + linechange + output
+    ![ss1](code2.png)
+    ![ss1](output2.png)
 
 
 + A response from a TA asking a leading question or suggesting a command to try (To be clear, you are mimicking a TA here.)
@@ -21,3 +29,9 @@ The file & directory structure needed
 The contents of each file before fixing the bug
 The full command line (or lines) you ran to trigger the bug
 A description of what to edit to fix the bug
+
+
+### Step 2
+
+
+
