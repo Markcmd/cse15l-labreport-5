@@ -14,22 +14,21 @@
 
   + And I try to add a .txt file in the LIST-EXAMPLES-GRADER, which records the student's submission that matching with students. it should recorde every students submission out put in order of I tested. And I also want to know how many students I tested on, my expected formation is like below 
     number of students  +  url  + linechange + output
-    ![ss1](code2.png)
     ![ss1](output2.png)
 
 
 + A response from a TA asking a leading question or suggesting a command to try (To be clear, you are mimicking a TA here.)
 
+  
 
 
 
 + Another screenshot/terminal output showing what information the student got from trying that, and a clear description of what the bug is.
 + At the end, all the information needed about the setup including:
-The file & directory structure needed
+![ss1](sturcture.png)  
 The contents of each file before fixing the bug
 The full command line (or lines) you ran to trigger the bug
 A description of what to edit to fix the bug
-
 
 ### Step 2
 
