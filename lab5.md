@@ -19,9 +19,8 @@
 
 + A response from a TA asking a leading question or suggesting a command to try (To be clear, you are mimicking a TA here.)
 
-  
-
-
+  For first problem you can try to copy the lib directory to the grading-area and find the bash. It might happen when the java can not find class in the current working directory.
+  And for the second problem, everytime the code is running the counter value refreshed. You might forget that we need to use for in the one run time. We can not set variable for every time we run the file. But you can write a for loop for searching the student1 , student2 , if there is no student# for some certain number then you can write the number for this time .
 
 + Another screenshot/terminal output showing what information the student got from trying that, and a clear description of what the bug is.
 + At the end, all the information needed about the setup including:
