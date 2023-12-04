@@ -23,13 +23,18 @@
   And for the second problem, everytime the code is running the counter value refreshed. You might forget that we need to use for in the one run time. We can not set variable for every time we run the file. But you can write a for loop for searching the student1 , student2 , if there is no student# for some certain number then you can write the number for this time .
 
 + Another screenshot/terminal output showing what information the student got from trying that, and a clear description of what the bug is.
+
+  ![ss1](output3.png)
+  ![ss1](code3.png)
+
 + At the end, all the information needed about the setup including:
-![ss1](sturcture.png)  
-The contents of each file before fixing the bug
-The full command line (or lines) you ran to trigger the bug
-A description of what to edit to fix the bug
+![ss1](structure.png)  
+
 
 ### Step 2
 
+  In another half of the quater, I learned how use vim code, and skill use jbd to debugging the java files . 
+  And found that to familiar with vim and jbd need a lot of pratice, and it is useful master them. 
 
+  The most impressive content is the redirect output commands.  >   >>    2>  1>   $> 
 
